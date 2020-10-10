@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lesson1.BinaryGapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-09T13:54:52" hostname="CroM-ui-MacBookPro.local" time="0.123">
+  <properties/>
+  <testcase name="solutionTest" classname="Lesson1.BinaryGapTest" time="0.123"/>
+  <system-out><![CDATA[running...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
